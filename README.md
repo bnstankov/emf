@@ -1,6 +1,6 @@
 # Columns
 
-Item | Parameter | Units
+ | Parameter | Units
 ---|---|---
 v | Voltage | V
 t | Module back temperature | &deg;C
